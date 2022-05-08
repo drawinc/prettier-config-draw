@@ -1,0 +1,10 @@
+{
+  "name": "prettier-config-draw",
+  "version": "1.0.0",
+  "author": "Draw",
+  "description": "Shared configuration for prettier in draw projects.",
+  "license": "MIT",
+  "repository": "drawinc/prettier-config-draw",
+  "bugs": "https://github.com/drawinc/prettier-config-draw/issues",
+  "homepage": "https://github.com/drawinc/prettier-config-draw#readme"
+}
